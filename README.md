@@ -19,25 +19,25 @@ For any code/programs you want to link to your writeup, you can create a folder 
 Example structure of a writeup for `Amazing Test CTF 2023`:
 ```
 .
-├── 2023
-│   └── Amazing Test CTF
-│       ├── _index.md
-│       ├── _sources
-│       │   ├── exploit.py
-│       │   └── sampleBinary
-│       ├── _assets
-│       │   ├── graph.png
-│       │   └── header.png
-│       ├── pwn
-│       │   └── Challenge1.md
-│       ├── Another Category
-│       │   ├── Challenge1.md
-│       │   └── Challenge2.md
-│       └── web
-│           ├── Challenge1.md
-│           ├── Challenge2.md
-│           └── Challenge3.md
-└── README.md
+└── 2023
+	└── Amazing Test CTF
+		├── index.md
+		├── _assets
+		│   ├── graph.png
+		│   └── header.png
+		├── _sources
+		│   ├── exploit.py
+		│   └── sampleBinary
+		├── pwn
+		│   └── Challenge1.md
+		├── Another Category
+		│   ├── Challenge1.md
+		│   ├── Challenge2.md
+		│   └── Challenge3.md
+		└── web
+			├── Challenge1.md
+			├── Challenge2.md
+			└── Challenge3.md
 ```
 
 ## Technical Details
