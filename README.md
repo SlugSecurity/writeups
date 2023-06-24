@@ -21,7 +21,7 @@ Example structure of a writeup for `Amazing Test CTF 2023`:
 .
 └── 2023
     └── Amazing Test CTF
-        ├── index.md
+        ├── _index.md
         ├── _assets
         │   ├── graph.png
         │   └── header.png
