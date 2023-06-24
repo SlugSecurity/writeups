@@ -16,8 +16,7 @@ If you want to add images or other files, you can create a folder called `/_asse
 
 For any code/programs you want to link to your writeup, you can create a folder called `/_sources/` in the root of your writeup folder. This is where you can put any code or programs that you want to link to in your writeup. For example, if you wanted to link to a program called `exploit.py`, you would put it in `/2023/Amazing Test CTF/_sources/`.
 
-Here's an example of what your writeup folder structure should look like:
-
+Example structure of a writeup for `Amazing Test CTF 2023`:
 ```
 .
 ├── 2023
@@ -25,7 +24,7 @@ Here's an example of what your writeup folder structure should look like:
 │       ├── _index.md
 │       ├── _sources
 │       │   ├── exploit.py
-│       │   └── samepleBinary
+│       │   └── sampleBinary
 │       ├── _assets
 │       │   ├── graph.png
 │       │   └── header.png
