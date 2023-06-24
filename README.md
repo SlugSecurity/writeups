@@ -32,8 +32,7 @@ Example structure of a writeup for `Amazing Test CTF 2023`:
         │   └── Challenge1.md
         ├── Another Category
         │   ├── Challenge1.md
-        │   ├── Challenge2.md
-        │   └── Challenge3.md
+        │   └── Challenge2.md
         └── web
             ├── Challenge1.md
             ├── Challenge2.md
