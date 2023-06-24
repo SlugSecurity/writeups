@@ -20,24 +20,24 @@ Example structure of a writeup for `Amazing Test CTF 2023`:
 ```
 .
 └── 2023
-	└── Amazing Test CTF
-		├── index.md
-		├── _assets
-		│   ├── graph.png
-		│   └── header.png
-		├── _sources
-		│   ├── exploit.py
-		│   └── sampleBinary
-		├── pwn
-		│   └── Challenge1.md
-		├── Another Category
-		│   ├── Challenge1.md
-		│   ├── Challenge2.md
-		│   └── Challenge3.md
-		└── web
-			├── Challenge1.md
-			├── Challenge2.md
-			└── Challenge3.md
+    └── Amazing Test CTF
+        ├── index.md
+        ├── _assets
+        │   ├── graph.png
+        │   └── header.png
+        ├── _sources
+        │   ├── exploit.py
+        │   └── sampleBinary
+        ├── pwn
+        │   └── Challenge1.md
+        ├── Another Category
+        │   ├── Challenge1.md
+        │   ├── Challenge2.md
+        │   └── Challenge3.md
+        └── web
+            ├── Challenge1.md
+            ├── Challenge2.md
+            └── Challenge3.md
 ```
 
 ## Technical Details
