@@ -1,6 +1,8 @@
 # Slug Security Writeups
 Welcome to the home of [Slug Security](https://slugsec.ucsc.edu)'s writeups. Our repository, which is synced via Github submodules, is automatically updated and organized in the [writeups section](https://slugsec.ucsc.edu/writeups/) of our website.
 
+Member of Slug Security? See our contributing guidelines here: [CONTRIBUTING.md](CONTRIBUTING.md)
+
 ## What Are Writeups?
 Writeups are basically our way of sharing knowledge. They're reports or guides where we talk about security concepts, techniques, or solutions to security competitions/challenges. Think of them as in-depth pieces on what we've learned, what we've seen, or what we think is cool in security.
 
