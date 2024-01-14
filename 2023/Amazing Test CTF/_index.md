@@ -5,4 +5,4 @@ tags: Test Test2
 excerpt: wow much amazing
 ---
 
-this is the index for amazing!
+See my other test writeup...
