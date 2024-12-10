@@ -339,10 +339,9 @@ gef➤  pattern search $rsp
 So we have an offset of 88. Similar to last time, we need to make sure it's stack aligned so we'll do the same exact thing to align it. Here's our exploit script so far:
 
 ```py
-$ cat solve.py 
 from pwn import *
-
 p = process('./chall')
+
 elf = ELF('./chall')
 rop = ROP(elf)
 
@@ -407,10 +406,9 @@ The way we want to do this is by popping a value into RDI (we pop things to regi
 Here's our solve script so far:
 
 ```py
-$ cat solve.py 
 from pwn import *
-
 p = gdb.debug('./chall', 'b *0x40171b') # strcmp within win func
+
 elf = ELF('./chall')
 rop = ROP(elf)
 
@@ -460,10 +458,9 @@ So instead of loading the actual password, we need to load the address of where 
 
 ### Final Solution
 ```py
-$ cat solve.py 
 from pwn import *
-
 p = gdb.debug('./chall', 'b *0x40171b') # strcmp within win func
+
 elf = ELF('./chall')
 rop = ROP(elf)
 
