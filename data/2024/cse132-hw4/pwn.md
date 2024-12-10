@@ -8,7 +8,7 @@ authors:
   - fbad
 ---
 
-Challenge author walkthrough of the binary exploitation homework for UCSC's CSE-132 Fall 2024 class. I hope you all learned something new about the cool world of pwn.
+Challenge author walkthrough of the binary exploitation homework for UCSC's CSE-132 Fall 2024 class. Hopefully you had somewhat of a good time attempting these challenges, if you're curious about binary exploitation in general, I'd highly suggest trying some challenges on [pwn.college](https://pwn.college/).
 
 <!-- more -->
 
