@@ -310,7 +310,7 @@ aaaaaaaabaaaaaaacaaaaaaadaaaaaaaeaaaaaaafaaaaaaagaaaaaaahaaaaaaaiaaaaaaajaaaaaaa
 [+] Saved as '$_gef0'
 
 gef➤  run
-Starting program: /home/fbad/Documents/Git/CSE132-HW/pwn-simple-rop/chall 
+Starting program: /pwn-simple-rop/chall 
 === Slug Security Technical Interview ===
 welcome candidate! before we begin, please tell us your name....
 > aaaaaaaabaaaaaaacaaaaaaadaaaaaaaeaaaaaaafaaaaaaagaaaaaaahaaaaaaaiaaaaaaajaaaaaaakaaaaaaalaaaaaaamaaa
@@ -321,7 +321,7 @@ welcome candidate! before we begin, please tell us your name....
 0x00007fffffffd990│+0x0008: 0x000000006161616d ("maaa"?)
 0x00007fffffffd998│+0x0010: 0x00000000004017ae  →   push rbp
 0x00007fffffffd9a0│+0x0018: 0x0000000100000018
-0x00007fffffffd9a8│+0x0020: 0x00007fffffffdb48  →  0x00007fffffffdf03  →  "/home/fbad/Documents/Git/CSE132-HW/pwn-simple-rop/[...]"
+0x00007fffffffd9a8│+0x0020: 0x00007fffffffdb48  →  0x00007fffffffdf03  →  "/pwn-simple-rop/[...]"
 0x00007fffffffd9b0│+0x0028: 0x00007fffffffdb58  →  0x00007fffffffdf3b  →  "CLUTTER_IM_MODULE=ibus"
 0x00007fffffffd9b8│+0x0030: 0x919b51f97047a5a4
 0x00007fffffffd9c0│+0x0038: 0x0000000000000001
